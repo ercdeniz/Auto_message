@@ -1,6 +1,7 @@
-AutoMessageSender
+# **AutoMessageSender**
 
-  Türkçe:
+  _Türkçe:_
+  
 AutoMessageSender, pywhatkit kütüphanesini kullanarak WhatsApp üzerinden otomatik mesaj göndermenizi sağlayan bir Python uygulamasıdır.
 
 Özellikler:
@@ -16,9 +17,10 @@ Kullanım:
 - Daha sonra Whatsapp web de hesabınızı açın.
 - Artık projeyi çalıştırabilirsiniz.
 
-  -------------------------------------------------
+--------------------------------------------------------
 
-  English:
+_English:_
+  
 AutoMessageSender is a Python application that allows you to send automated messages via WhatsApp using the pywhatkit library.
 
 Features:
