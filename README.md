@@ -34,4 +34,3 @@ Usage:
 - Open your account on WhatsApp Web.
 - Now you can run the project.
 
-  ```git clone asd```
