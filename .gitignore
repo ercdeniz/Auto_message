@@ -1,0 +1,9 @@
+logs
+.DS_Store
+*.xls
+*.xlsx
+*.csv
+*.log
+*.json
+__pycache__
+.idea
